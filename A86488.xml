@@ -1,0 +1,532 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elogie, and epitaph, consecrated to the ever sacred memory of that most illustrious, and incomparable monarch, Charles, by the grace of God, of England, Scotland, France, and Ireland, late King, &amp;c. Together with an elogy and epitaph upon the truely lamented death of that excellent patterne of perfect magnanimity, virtue, valour, and loyalty, Arthur Lord Capell. With some streames of remembrance issued from the bloods of his noble fellow-sufferers, Duke Hamilton, and Henry Earle of Holland. / By F.H. Philomusus.</title>
+            <author>F. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86488</idno>
+            <idno type="STC">Wing H25</idno>
+            <idno type="STC">Thomason E554_1</idno>
+            <idno type="STC">ESTC R2265</idno>
+            <idno type="EEBO-CITATION">99871807</idno>
+            <idno type="PROQUEST">99871807</idno>
+            <idno type="VID">165077</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86488)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165077)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E554[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elogie, and epitaph, consecrated to the ever sacred memory of that most illustrious, and incomparable monarch, Charles, by the grace of God, of England, Scotland, France, and Ireland, late King, &amp;c. Together with an elogy and epitaph upon the truely lamented death of that excellent patterne of perfect magnanimity, virtue, valour, and loyalty, Arthur Lord Capell. With some streames of remembrance issued from the bloods of his noble fellow-sufferers, Duke Hamilton, and Henry Earle of Holland. / By F.H. Philomusus.</title>
+                  <author>F. H.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeare, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place of publication conjectured by Wing.</note>
+                  <note>Annotation on Thomason copy: "May 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry --  Early works to 1800.</term>
+               <term>Capel of Hadham, Arthur Capel, --  Baron, 1610?-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:165077:1" rendition="simple:additions"/>
+            <pb facs="tcp:165077:1"/>
+            <p>
+               <figure>
+                  <p>Ad illum</p>
+                  <p>Per Hanc</p>
+                  <p>Ab Istac</p>
+                  <figDesc>man lying on bed</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:165077:2"/>
+            <pb facs="tcp:165077:2" rendition="simple:additions"/>
+            <p>AN ELOGIE, AND <hi>EPITAPH,</hi> Conſecrated to the ever Sacred Me<g ref="char:EOLhyphen"/>mory of that moſt ILLUSTRIOUS, and Incomparable MONARCH, CHARLES, By the Grace of God, of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> late King, <hi>&amp;c.</hi>
+            </p>
+            <p>Together with an Elogy and Epitaph upon the truely lamented death of that Excellent patterne of perfect Magnanimity, Virtue, Va<g ref="char:EOLhyphen"/>lour, and Loyalty, <hi>Arthur</hi> Lord <hi>Capell.</hi>
+            </p>
+            <p>With ſome ſtreames of remembrance iſſued from the bloods of his Noble Fellow-ſufferers, Duke <hi>Hamil<g ref="char:EOLhyphen"/>ton,</hi> and <hi>Henry</hi> Earle of <hi>Holland.</hi>
+            </p>
+            <p>By <hi>F. H. Philomuſus.</hi>
+            </p>
+            <p>Printed in the Yeare, 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:165077:3"/>
+            <pb n="1" facs="tcp:165077:3"/>
+            <head>An Elogie and Epitaph, &amp;c.</head>
+            <lg n="1">
+               <head>1</head>
+               <l>HOwle, howle, diſtracted Kingdome, let thy cryes</l>
+               <l>Like Dragons roarings, terrifie the earth,</l>
+               <l>Amaze the Heavens, fright Hell, and darke the skyes;</l>
+               <l>For now thy throwes have iſſued a curſed birth:</l>
+               <l>Let the Sun bluſh, and all the trembling ſtarres</l>
+               <l>Refraine beſpangling of their moving Spheares,</l>
+               <l>Untill they ſee the termine of our jarres;</l>
+               <l>Let this, of all, be deleated from yeeres,</l>
+               <l>Leſt in't the guilt of King-ſhed ſacred bloud.</l>
+               <l>Increaſe t' a torrent, period in a floud.</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>O could we ſee the depth of our diſtreſſe</l>
+               <l>With <hi>Linxceys</hi> eyes! it would torment our ſoules:</l>
+               <l>All Rhetorique's dumbe, our anguiſh to expreſſe,</l>
+               <l>Horror our mourning, feare our teares controules;</l>
+               <l>Th'imminent judgements and impetuous ſtormes</l>
+               <l>Hov'ring in vengeance ore our hardned Nation,</l>
+               <l>Makes zeale for woe, rave in prepoſterous formes,</l>
+               <l>And ſtretch our heart-ſtrings on the Racke of paſſion,</l>
+               <l>Whil'ſt bleeding ſoules, in ſtead of dropping eyes</l>
+               <l>Bedewes the foot-ſteps to our miſeries.</l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>Rent, rent your hearts, your garments are defil'd</l>
+               <l>Ye trayterous Nation, with your deare Kings bloud;</l>
+               <l>Whil'ſt th'hopefull branches of his root exil'd,</l>
+               <l>Adds a full ſea to our afflictions floud:</l>
+               <l>Ye have betray'd a gratious King to death</l>
+               <l>Ye murtherous varlets, by your baſe revolt</l>
+               <l>From th' Diadem to th' dunghill, could the breath,</l>
+               <l>That nine yeares ſince his glory did exalt</l>
+               <l>Unto the Heavens, with curſed yealps now cry,</l>
+               <l>Give us theſe Barrabbeſſes? let our Soveraigne die.</l>
+            </lg>
+            <pb n="2" facs="tcp:165077:4"/>
+            <lg n="4">
+               <head>4</head>
+               <l>
+                  <hi>Buſiris</hi> like, ye murderers did ye dreame,</l>
+               <l>Heaven would raine peace f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> this ſtrange Sacrifice?</l>
+               <l>Ye ſhould have let your owne ours'd bloods to ſtreame,</l>
+               <l>And quench'd the flame of all our miſeries:</l>
+               <l>But he in Lamb-like ſufferings hath wrought</l>
+               <l>More then Herculian conqueſt o're your rage,</l>
+               <l>Though with the deare price of his blood y' have bought</l>
+               <l>England th' Aceldama; your dreadfull ſtage,</l>
+               <l>Whereon y'have acted ſuch a Tragedy,</l>
+               <l>
+                  <hi>Nero</hi> had wept, had he but liv'd to ſee:</l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>Had he by Schythians, or a ruder hand,</l>
+               <l>Been raviſh'd from us to his Crowne of glory,</l>
+               <l>Reaſon might o're our paſſions claime command,</l>
+               <l>Becauſe their natures yielde their acts a ſtory:</l>
+               <l>But for a Tribe of Hypocrites to lurke</l>
+               <l>Under the wings of Zeale and Reformation,</l>
+               <l>Till they had finiſh'd Satans maſter-worke,</l>
+               <l>And ruin'd all the Bulworks of our Nation:</l>
+               <l>Thus making God, whoſe Soule abhorres all evills,</l>
+               <l>Seeme to command thoſe acts proclaime them Divells.</l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>Trembled yee not, yee Furies, for to ſee</l>
+               <l>When yee conven'd, ſuch reverence in his face?</l>
+               <l>Such high deportment, ſacred Majeſty,</l>
+               <l>Such radiant Luſter, and ſuch awefull Grace?</l>
+               <l>No, no, thriving Rebellion's mov'd no more</l>
+               <l>With ſuch transfixions, then a flint with teares;</l>
+               <l>But their deſire to wallow in his goare</l>
+               <l>Have proved them ſuch, nor God nor Devill feares;</l>
+               <l>But in contempt of both, have challeng'd all</l>
+               <l>The powers of VENGEANCE on their heads to fall.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>Yee viperous broode, who with your ſubtill teeth,</l>
+               <l>Unſeene, have gnawne through th'bowels of our State:</l>
+               <pb n="3" facs="tcp:165077:4"/>
+               <l>Thinke yee REVENGE with REGICIDE agreeth?</l>
+               <l>Or Kingdome ruines can ſhake hands with hate?</l>
+               <l>Thinke yee the extirpation of a Race</l>
+               <l>Divinely Royall, can eſtabliſh Peace?</l>
+               <l>Or ſeat rude Traytors in our Princes place?</l>
+               <l>Or blood can fill our garners with increaſe?</l>
+               <l>No, no, VENGEANCE but writes in theſe red letters</l>
+               <l>How much to Hell, and torment ye are debters.</l>
+            </lg>
+            <lg n="8">
+               <head>8</head>
+               <l>But Reader, leſt our ſorrows and exclaims</l>
+               <l>Should ſeeme for one whoſe graces are forgot,</l>
+               <l>Becauſe Rebellion tooke ſuch tedious pains</l>
+               <l>His ſpotleſſe ſoule, with helliſh guilt to blot:</l>
+               <l>Though language faulter, and our Contemplation</l>
+               <l>Reach but the Idea of his bleſt perfection;</l>
+               <l>Yet let our groans disburthen's of ſome paſſion;</l>
+               <l>Communicating Mourners (Sans exception)</l>
+               <l>May clap a <hi>plaudit,</hi> to th' eternall Fame</l>
+               <l>Of him, whoſe <hi>exit</hi> ſeal'd our laſting ſhame.</l>
+            </lg>
+            <lg n="9">
+               <head>9</head>
+               <l>Would yee have Heaven in a choice Cabinet</l>
+               <l>Treaſure her richeſt graces up in ſtore<g ref="char:punc">▪</g>
+               </l>
+               <l>For a ſelected people to be ſet</l>
+               <l>In th' Arke of their affections? he was more,</l>
+               <l>For the continued fire of Divine ZEALE,</l>
+               <l>For his Redeemers glory did inflame</l>
+               <l>The darkeſt angles of our Common-weale;</l>
+               <l>He was a burning Light, whoſe ſhining Fame</l>
+               <l>Made ENGLAND ſeeme, once, as ſhe had conſpir'd</l>
+               <l>With radiant truth<g ref="char:punc">▪</g> the world t' have wholly fir'd.</l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>RELIGION was enhaunc'd to ſuch a price</l>
+               <l>In his eſteeme, 't ſeem'd as Devotion had</l>
+               <l>Been onely moulded by his exerciſe,</l>
+               <l>(To make the ZEALOUS-HEARTED truly glad:)</l>
+               <pb n="4" facs="tcp:165077:5"/>
+               <l>Nor onely in a Cell his piety,</l>
+               <l>Gave life to th' hou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of his well ſpent dayes;</l>
+               <l>But in the Temple of the Diety,</l>
+               <l>He oft proclaimed his Creatours praiſe:</l>
+               <l>So fervent in, of prayer, ſo rich a prizer,</l>
+               <l>As earth had had no other Sacrificer.</l>
+            </lg>
+            <lg n="11">
+               <head>11</head>
+               <l>Have ye obſerv'd the curling Maine to treaſure</l>
+               <l>Each Rivers Off-ſpring in her ſpacious wombe,</l>
+               <l>Rendring to every Fountaine her juſt meaſure,</l>
+               <l>Making her ſelfe againe their tributes tombe;</l>
+               <l>So did this Sea of wiſedome ſtill receive</l>
+               <l>Th'iſſuing Rivolets of ingenious ſtore,</l>
+               <l>Nor did he by retention thus bereave</l>
+               <l>Them of their wealth, but rendred foure fold more,</l>
+               <l>To each ſmall Spring that ſtream'd pure waters forth,</l>
+               <l>Yet ſtill reſerv'd's owne inexhauſtine worth.</l>
+            </lg>
+            <lg n="12">
+               <head>12</head>
+               <l>The Arts in him conſpired to erect</l>
+               <l>A laſting fabrick to eternity,</l>
+               <l>Whoſe concave did containe the true effect</l>
+               <l>Of the moſt abſolute ACADEMIE:</l>
+               <l>Had ye obſerv'd, this Mirour did preſent</l>
+               <l>The Sciences in an EPITOMIE;</l>
+               <l>Or rather't ſeem'd they had beene onely ſent</l>
+               <l>From him to borrow light and dignity;</l>
+               <l>Each Science ſerving but t' attend and doe</l>
+               <l>Thoſe Acts that his perfection prompt them to.</l>
+            </lg>
+            <lg n="13">
+               <head>13</head>
+               <l>So highly Gods pure worſhip did he tender,</l>
+               <l>That in his lateſt exigent of breath</l>
+               <l>He prov'd himſelfe our ſaving faiths Defender,</l>
+               <l>By ſigning with his blood 'ts reprieve from death;</l>
+               <l>Still David-like in valour he appear'd,</l>
+               <l>And in his troubles Job and David too,</l>
+               <pb n="5" facs="tcp:165077:5"/>
+               <l>For Patient Magnanimity, y' have heard,</l>
+               <l>Were perfect patterns of his tedious woe,</l>
+               <l>Who SAMPSON like, drownd in his laſt ſpilt goare</l>
+               <l>Thouſands of ſoules, that laugh'd at's greefe before.</l>
+            </lg>
+            <lg n="14">
+               <head>14</head>
+               <l>Now ſnarle accurſed ENVIE, let thy gall</l>
+               <l>Burſt with thy Venome, for this object will</l>
+               <l>Rebound thy blunt aſpertions, like a wall</l>
+               <l>Of Adamant, (thy meager ſoule to kill:)</l>
+               <l>And when the Armies of our Nation ſhall</l>
+               <l>Diſclaime to treaſure, with his glory, our ſhame,</l>
+               <l>His glories tryumph in our fatall fall,</l>
+               <l>T' eternity ſhall ſtill preſerve his Fame:</l>
+               <l>For death hath murder'd in this cruel ſtroke</l>
+               <l>Three Kingdomes Honours, and their Baſis broke.</l>
+            </lg>
+            <lg n="15">
+               <head>15</head>
+               <l>Reſt ſacred Mattyr, whoſe bleſt Temples are</l>
+               <l>Crown'd with the glory of thy SAVIOURS merit,</l>
+               <l>And let theſe Traytors for thy Scepter jarre,</l>
+               <l>Whilſt thou a heavenly Kingdome do'ſt inherit;</l>
+               <l>And though we languiſh in a dying life.</l>
+               <l>Yet may thy Royal Off-ſpring be preſerv'd</l>
+               <l>From being butcher'd on our ſtage of ſtrife,</l>
+               <l>(More ſwift to urge our vengeance, juſt deſerv'd,)</l>
+               <l>And whilſt the woes of REGICIDES increaſe,</l>
+               <l>May thy blood be our Sacrifice of peace.</l>
+            </lg>
+            <div type="epitaph">
+               <head>EPITAPH.</head>
+               <l>Reader, here lies three Kingdomes Peace,</l>
+               <l>Their Honours, plenty, and increaſe<g ref="char:punc">▪</g>
+               </l>
+               <l>Religion, Learning, Faith, Law, Grace,</l>
+               <l>Are all inſhrin'd in this ſmall place;</l>
+               <l>One accurs'd Inſtrument of wrath and woe,</l>
+               <l>Made three brave Kingdomes headleſſe with a blow.</l>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:165077:6"/>
+            <pb n="7" facs="tcp:165077:6"/>
+            <head>An ELOGIE, and EPITAPH upon <hi>ARTHUR</hi> Lord <hi>CAPELL.</hi>
+            </head>
+            <lg>
+               <l>WRetched'ſt of Kingdomes, late the world admir'd</l>
+               <l>Thy glorious Luſtre, State, magnificence,</l>
+               <l>Untill prepoſtrous ZEALE thy brambles fir'd.</l>
+               <l>Whoſe rage hath ruin'd all thy excellence;</l>
+               <l>Thus Heaven we ſee when Kingdomes but augment,</l>
+               <l>Their ſinnes appeare, or plenties doe increaſe,</l>
+               <l>(And with choyce mercies their baſe luſts foment)</l>
+               <l>Can change th'abuſed benefits of peace</l>
+               <l>Into continued judgements, as Heaven woo'd</l>
+               <l>Drownd's in a deluge of our nobleſt blood.</l>
+            </lg>
+            <lg n="2">
+               <head>2</head>
+               <l>Suffic'd it not your thirſt (ye hell-fir'd ſoules)</l>
+               <l>T' have drunke the dregs of wrath in your Kings gore?</l>
+               <l>But muſt ye quaffe damnations healths in bowles</l>
+               <l>Of our Peeres blood, t'intoxicate ye more?</l>
+               <l>Feed ye upon our poore like bread, and will</l>
+               <l>Nought ſurfet ye? nor Prince, nor peoples meanes?</l>
+               <l>Muſt Lords eſtates your Idoll panches fill?</l>
+               <l>Can Heaven deſigne's no plagues but theſe extreames?</l>
+               <l>No, no, tis juſt that Tyranny and Hate</l>
+               <l>Should feed on people ripened in debate.</l>
+            </lg>
+            <lg n="3">
+               <head>3</head>
+               <l>Me thinks it ſeemes a wonder ye ſhould thirſt</l>
+               <l>After ye have drunke the Royall fountayne dry:</l>
+               <l>But oh! that blood exaſperates your curs't</l>
+               <l>Inſatiate drought; whoſe rage will never die</l>
+               <l>Whil'ſt ſtreames of noble tincture flow in vaines</l>
+               <l>Of chryſtall, t'out ſhine yours of Stygian hue;</l>
+               <l>Your ſoules though di'd with Regicidiall ſtaines,</l>
+               <l>Muſt be redrench'd in blood of Worthies too,</l>
+               <l>And leſt ſwift vengeance ſeize ye on lifes ſhore,</l>
+               <l>Yee'l ſwim to hell ore ſeas of noble goare.</l>
+            </lg>
+            <pb n="8" facs="tcp:165077:7"/>
+            <lg n="4">
+               <head>4</head>
+               <l>But ſay, (ye ENGINEERS of TORMENT, why</l>
+               <l>Deviſe yee plagues to languiſh us to death?</l>
+               <l>Could yee not (as<note n="*" place="margin">Cali gu<g ref="char:EOLhyphen"/>la.</note> ROMES TYRANT wiſh'd) once tye</l>
+               <l>Our vaſſal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d necks to one fierce ſtroake of death?</l>
+               <l>Though yee becharm'd us to believe our woe</l>
+               <l>For chiefeſt good, yet when we ſee ye teare</l>
+               <l>The Limbs from the falne Cedar, we muſt ſhew</l>
+               <l>The world your falſhoods in our trembling feare;</l>
+               <l>But vengeance will not ſpare that blaſpemie</l>
+               <l>Which makes Heaven ſeeme t' approve curſt cruelty.</l>
+            </lg>
+            <lg n="5">
+               <head>5</head>
+               <l>Can neither cries of Widdows, nor the teares</l>
+               <l>Of tender Orphans, not the dreadfull groanes</l>
+               <l>Of three ſad Kingdomes pierce your deafned eares?</l>
+               <l>Will ye not heare the Priſoners ruefull moanes?</l>
+               <l>The cries of blood have peirc't the Firmament,</l>
+               <l>And vengeance ſlumbereth not, ye brands of ire,</l>
+               <l>TOPHET'S prepar'd of old, not as ye meant</l>
+               <l>For glorious CHARLES, nor CAPELL, but with fire</l>
+               <l>Eternally to torture thoſe that ſell</l>
+               <l>Kings and Peeres bloods to purchaſe Thrones in Hell.</l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>Readers, perchance now ye expect to know</l>
+               <l>Why we amaze the world with our exclaimes;</l>
+               <l>And whence thoſe torrents of dire paſſions flow,</l>
+               <l>That theſe ſad dirge-ſtrains powerfully proclaimes?</l>
+               <l>Did not the flames of Zeale for our late loſſe</l>
+               <l>Extract the quint'ſence of all anxious teares?</l>
+               <l>That ruine quite transform'd our joyes to droſſe,</l>
+               <l>And this our hopes to agravated feares;</l>
+               <l>Ruine ſaid I? no, CHARLES and CAPELLS name</l>
+               <l>Reſts crown'd with glory, but their Foes with ſhame.</l>
+            </lg>
+            <lg n="7">
+               <head>7</head>
+               <l>He whom we now lament earth equals not, in him</l>
+               <l>Valour, and Fortitude, feem'd both to place</l>
+               <pb n="9" facs="tcp:165077:7"/>
+               <l>Their choiſe demenſions in his every Limb,</l>
+               <l>Which his Zeale manag'd with HEROICK grace;</l>
+               <l>Prudence but uſher'd his accompliſhments,</l>
+               <l>And though blinde fortune, him betray'd to th'hate</l>
+               <l>Of a perfidious enemy, 's in tents</l>
+               <l>Proclaim'd him Victor in his captive ſtate;</l>
+               <l>Who in his lateſt exigent of breath,</l>
+               <l>Conquer'd his murdters in outbraving death.</l>
+            </lg>
+            <lg n="8">
+               <head>8</head>
+               <l>Nor here expect our griefes ſhould entertaine</l>
+               <l>Their Worths,<note place="margin">Hamilton and Hol<g ref="char:EOLhyphen"/>land.</note> as th' honor'd loſſe we chiefely waile,</l>
+               <l>Though with their bloods th' have purified the ſtaine</l>
+               <l>Of their diſloyalty; true, fleſh is fraile,</l>
+               <l>Nor therefore ſhall black obloquy cloud or'e</l>
+               <l>Their redeem'd Honours; but joynt ſuffering ſhall</l>
+               <l>Write their eternall glory with the goare</l>
+               <l>That ſtream'd from CAPELL in's HEROICK fall;</l>
+               <l>
+                  <note place="margin">Religion, King, Lawes.</note>For one true Martyr in that * three fold cauſe</l>
+               <l>May render three brave exits their applauſe.</l>
+            </lg>
+            <lg n="9">
+               <head>9</head>
+               <l>You whoſe afflicted ſoules doe merrit here</l>
+               <l>True Crownes of Patience, O remember how</l>
+               <l>This conſtant preſident did ſtill appeare</l>
+               <l>Glorious in Tryals, crown'd with glory now;</l>
+               <l>Let not baſe feare of Tyranny and Rage</l>
+               <l>Betray your Honours to a laſting ſhame,</l>
+               <l>Their Tragick Tryumphs but their woes preſage,</l>
+               <l>Which will increaſe, as your eternall Fame:</l>
+               <l>Your blood's ſo ſpilt moſt potently invoke</l>
+               <l>Your Mercies, whilſt REVENGE prepares their ſtroake.</l>
+            </lg>
+            <lg n="10">
+               <head>10</head>
+               <l>Ceaſe, ceaſe your mournings, ye indulgent ſoules;</l>
+               <l>Give not occaſion to thoſe inſolent</l>
+               <l>To tryumph whilſt your paſſions hope controules,</l>
+               <l>Teares now ſeeme ſtream'd from inward diſcontent</l>
+               <pb n="10" facs="tcp:165077:8"/>
+               <l>At his eternall happineſſe (the Sunne</l>
+               <l>Appears moſt radiant ſtill before a ſhowre)</l>
+               <l>But if your ſorrowes in a full ſtreame runne,</l>
+               <l>'T may cloud his luſtre, and augment the power</l>
+               <l>Of petulency, deluge like t' o'reflow</l>
+               <l>His honours Pillar in their flood of woe.</l>
+            </lg>
+            <lg n="11">
+               <head>11</head>
+               <l>Reſt, reſt, Renowned Martyr, whilſt we praiſe</l>
+               <l>Gods power that in thy conſtancy appear'd;</l>
+               <l>Thy vertues thee a Pyramid ſhall raiſe,</l>
+               <l>Whil'ſt Tyrants of their ſhadowes are affeard,</l>
+               <l>Thou who haſt ſacrific'd thy well-ſpent life,</l>
+               <l>For God and King, with them art crown'd in glory,</l>
+               <l>May thy bleſt Off-ſpring and thy fruitfull Wife,</l>
+               <l>Joy to contemplate on thy honour'd ſtory;</l>
+               <l>And may thy blood, or prove a drench to purge</l>
+               <l>Thy Murderers mallice, or their ruines urge.</l>
+            </lg>
+            <div type="epitaph">
+               <head>EPITAPH.</head>
+               <l>Grace, Valour, Magnanimity,</l>
+               <l>Zeale, Fortitude, Faith, Loyalty.</l>
+               <l>Choſe this true HEROE here inſhrin'd,</l>
+               <l>To be their Champion, he whoſe minde</l>
+               <l>Vanquiſh'd the power of Tyranny and rage,</l>
+               <l>Defying death upon's owne tragicke Stage,</l>
+               <l>And though his Murderers on his ſuffrings fed,</l>
+               <l>They drunke their bane when's innocency bled.</l>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
